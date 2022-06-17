@@ -535,7 +535,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.47</version>
+			<version>1.2.83</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
@@ -547,7 +547,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.47</version>
+            <version>1.2.83</version>
             <scope>compile</scope>
         </dependency>
 
